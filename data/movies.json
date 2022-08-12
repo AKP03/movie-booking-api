@@ -1,0 +1,14 @@
+[
+  {
+    "id": 7,
+    "name": "1971",
+    "image": "https://ik.imagekit.io/akashpradhan/time_sfzOEM7Fl.jpeg?ik-sdk-version=javascript-1.4.3&updatedAt=1660274739998",
+    "seats": 56
+  },
+  {
+    "id": "ee64df08-75a8-43d9-87a5-9f248a7f974e",
+    "name": "Laal Singh Chaddha",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4YjFhMzUtMWIxMC00NDI2LTgxOGYtMDM1ZGQ1ZDUxZTE0XkEyXkFqcGdeQXVyMTUzOTcyODA5._V1_FMjpg_UX1000_.jpg",
+    "seats": 59
+  }
+]
